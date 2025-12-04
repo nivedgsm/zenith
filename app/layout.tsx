@@ -6,17 +6,17 @@ const inter = Inter({ subsets: ['latin'] });
 const playfair = Playfair_Display({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Akhurath Zenith Solutions | Global Aviation & Investment Consultancy',
-  description: 'Elite global aviation and investment consultancy delivering specialized services in aviation, investment, healthcare, training, and R&D across international markets.',
-  keywords: 'aviation consulting, investment solutions, project management, global consultancy',
+  title: 'Akhurath Zenith Solutions | Private Jet Chartering & Aircraft Leasing Excellence',
+  description: 'Bespoke private jet chartering and aircraft leasing services tailored for global aviation excellence. Trusted by aviation partners across India, Southeast Asia, the Middle East & Africa.',
+  keywords: 'private jet charter, aircraft leasing, private aviation, jet charter services, aircraft leasing solutions, luxury aviation, business aviation',
   authors: [{ name: 'Akhurath Zenith Solutions' }],
   creator: 'Akhurath Zenith Solutions',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://www.akhurath-zenith.com',
-    title: 'Akhurath Zenith Solutions | Global Aviation & Investment Consultancy',
-    description: 'Elite global aviation and investment consultancy delivering specialized services',
+    title: 'Akhurath Zenith Solutions | Private Jet Chartering & Aircraft Leasing Excellence',
+    description: 'Bespoke private jet chartering and aircraft leasing services tailored for global aviation excellence',
     siteName: 'Akhurath Zenith Solutions',
   },
 };
